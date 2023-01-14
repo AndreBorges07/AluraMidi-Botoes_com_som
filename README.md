@@ -7,7 +7,7 @@
 
 # Descrição
 Projeto mais voltado para o aprendizado e desenvolvimento em JavaScript. Site com botões que ao clica-los emitem sons. 
-<br> Fiz algumas adaptação referente ao proposto, alterando cores e adcionando imagens, praticando ainda mais os conceitos de HTML, CSS. 
+<br> Fiz algumas adaptação referente ao proposto, alterando cores e adicionando imagens, praticando ainda mais os conceitos de HTML, CSS. 
 <br>Acesse o projeto aqui: https://alura-midi-botoes-com-som.vercel.app/
 
 # Tecnologias utilizadas
