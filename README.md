@@ -27,7 +27,9 @@ Projeto mais voltado para o aprendizado e desenvolvimento em JavaScript. Site co
     <li>Foram feitas 46 de 46 atividades</li>
 </ul>
 
+# Certificado: JavaScript para Web: Crie páginas dinâmicas
 
+Acesse aqui: https://cursos.alura.com.br/certificate/andreBorges07/javascript-web-paginas-dinamicas
 
 
 
